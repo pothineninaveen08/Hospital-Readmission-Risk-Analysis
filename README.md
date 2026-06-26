@@ -1,4 +1,4 @@
-# 🏥 Hospital Readmission Risk Analysis
+#  Hospital Readmission Risk Analysis
 
 ---
 
